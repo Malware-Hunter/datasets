@@ -1,9 +1,0 @@
-** Links dos Datasets originais **
-
-Drebin215 >> https://figshare.com/articles/dataset/Android_malware_dataset_for_machine_learning_2/5854653
-
-Androcrawl >> https://github.com/phretor/ransom.mobi/blob/gh-pages/f/filter.7z
-
-KronoDroid Emulador >> https://github.com/aleguma/kronodroid/tree/main/emulator
-
-KronoDroid Dispositivos Reais >> https://github.com/aleguma/kronodroid/tree/main/real_device
