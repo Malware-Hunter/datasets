@@ -9,14 +9,18 @@ Original Datasets
 Preprocessed Datasets
 
 Preprocessing of Each Dataset Follows These Steps:
-- Removal of Missing Values
-- Removal of Duplicate Columns and/or Samples
-- Removal of Irrelevant Features (Columns with Only One Value in All Samples)
-- Conversion of Data Types
+1. Removal of Missing Values
+2. Removal of Duplicate Columns and/or Samples
+3. Removal of Irrelevant Features (Columns with Only One Value in All Samples)
+4. Conversion of Data Types
 
 - **[continuous](https://github.com/Malware-Hunter/datasets/tree/main/continuous)**:
 
 Continuous Datasets (When it Fits)
+
+- **[binaries](https://github.com/Malware-Hunter/datasets/tree/main/binaries)**:
+
+Binaries Datasets
 
 # Codes
 - [Code for Handling Datasets](https://github.com/Malware-Hunter/datasets/tree/main/src)

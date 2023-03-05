@@ -13,6 +13,7 @@
 |    KronoDroid Emulator   |  63911  |    482   |
 
 [^PRS]: Permissions, Receivers and Services 
+
 ## Links
 **AndroCrawl**
 
