@@ -1,20 +1,43 @@
 # Datasets
 
-## Table
+## Overview
 
-|           Dataset           | Samples | Features |
-|:---------------------------:|:-------:|:--------:|
-|          AndroCrawl         | 162983 | 221|
-|           ADROIT           |       166       |    3418    |
-|         DefenseDroid        |       2938      |    6000    |
-|          DREBIN-215         |       215       |    5560    |
-| KronoDroid Dispositivo Real |       383       |    41382   |
-|     KronoDroid Emulador     |       383       |    28745   |
+|          Dataset         | Samples | Features |
+|:------------------------:|:-------:|:--------:|
+|         AndroCrawl       |  162983 |    221   |
+|           ADROIT         |  11476  |    182   |
+|   Android Permissions    |  29999  |    183   |
+|  DefenseDroid PRS[^PRS]  |  11975  |   2938   |
+|         DREBIN-215       |  15031  |    215   |
+|  KronoDroid Real Device  |  78137  |    483   |
+|    KronoDroid Emulator   |  63911  |    482   |
 
-
+[^PRS]: Permissions, Receivers and Services 
 ## Links
 **AndroCrawl**
 
   https://github.com/phretor/ransom.mobi/blob/gh-pages/f/filter.7z
 
 **ADROIT**
+
+  https://www.kaggle.com/datasets/saurabhshahane/android-malware-dataset
+
+**Android Permissions**
+
+  https://www.kaggle.com/datasets/saurabhshahane/android-permission-dataset
+
+**DefenseDroid**
+
+  https://www.kaggle.com/datasets/defensedroid/android-malware-detection
+
+**DREBIN-215**
+
+  https://figshare.com/articles/dataset/Android_malware_dataset_for_machine_learning_2/5854653
+
+**KronoDroid Emulator**
+
+  https://github.com/aleguma/kronodroid/tree/main/emulator
+
+**KronoDroid Real Device**
+
+  https://github.com/aleguma/kronodroid/tree/main/real_device
