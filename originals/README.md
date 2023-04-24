@@ -2,17 +2,20 @@
 
 ## Overview
 
-|          Dataset         | Samples | Features |
-|:------------------------:|:-------:|:--------:|
-|         AndroCrawl       |  162983 |    221   |
-|           ADROIT         |  11476  |    182   |
-|   Android Permissions    |  29999  |    183   |
-|  DefenseDroid PRS[^PRS]  |  11975  |   2938   |
-|         DREBIN-215       |  15031  |    215   |
-|  KronoDroid Real Device  |  78137  |    483   |
-|    KronoDroid Emulator   |  63911  |    482   |
+|               Dataset             | Samples | Features |
+|:---------------------------------:|:-------:|:--------:|
+|               ADROIT              |  11476  |   182    |
+|             AndroCrawl            |  162983 |   221    |
+|       Android Permissions         |  29999  |   183    |
+|  DefenseDroid APICalls Closeness  |  10476  |   21997  |
+|    DefenseDroid APICalls Degree   |  10476  |   21997  |
+|     DefenseDroid APICalls Katz    |  10476  |   21997  |
+|      DefenseDroid PRS[^PRS]       |  11975  |   2938   |
+|             DREBIN-215            |  15031  |   215    |
+|      KronoDroid Real Device       |  78137  |   483    |
+|        KronoDroid Emulator        |  63911  |   482    |
 
-[^PRS]: Permissions, Receivers and Services 
+[^PRS]: Permissions, Receivers and Services
 
 ## Links
 **AndroCrawl**
