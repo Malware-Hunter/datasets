@@ -11,6 +11,9 @@ def parse_args(argv):
     parser.add_argument(
         '-d', '--dataset', metavar = 'DATASET',
         help = 'Dataset (csv file).', type = str, required = True)
+    parser.add_argument(
+        '-s', '--sep', metavar = 'SEPARATOR',
+        type = str, default = ',')
     args = parser.parse_args(argv)
     return args
 
