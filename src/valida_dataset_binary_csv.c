@@ -25,20 +25,23 @@ int main(int argc, char **argv)
                 n_zeros++;
             else if (buffer_da_linha[i] == ' ')
                 n_extra_white_spaces++;
-            else
+            else {
                 n_other_chars++;
+		//if (counter != 0) 
+		//	fprintf(stdout, "%c\n", buffer_da_linha[i]);
+	    }
         }
         if (n_commas_warning == 0)
             n_commas_warning = n_commas;
         else if (n_commas_warning != n_commas) {
-            fprintf(stdout, "[WARNING] number of commas do not match at line %d!\n", counter);
-            return -1;
+            fprintf(stdout, "[WARNING] number of commas (%d:%d) do not match at line %d!\n", n_commas_warning, n_commas, counter);
+            //return -1;
         }
         if (n_other_chars_warning == 0 && counter != 0)
             n_other_chars_warning = n_other_chars;
         else if (n_other_chars_warning != n_other_chars && counter != 0) {
             fprintf(stdout, "[WARNING] number of other chars do not match at line %d!\n", counter);
-            return -1;
+            //return -1;
         }
         if (n_extra_white_spaces > 0 && counter > 0)
             n_extra_white_spaces_warning += n_extra_white_spaces;
