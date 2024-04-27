@@ -1,6 +1,0 @@
-#line,n_read_chars,n_commas,n_ones,n_zeros,n_extra_white_spaces, n_other_chars
-0,2278273,38790,542,499,113993,2124449
-1,102436,38790,1379,49839,0,12428
-2,102436,38790,2433,48785,0,12428
-3,102436,38790,2927,48291,0,12428
-[WARNING] number of other chars do not match at line 4!
