@@ -1,26 +1,30 @@
-# Datasets
+# Malware Hunters Datasets
 
-- **[originals](https://github.com/Malware-Hunter/datasets/tree/main/originais)**:
+The exponential rise in Android devices has also brought an increased risk of malicious applications that threaten users' security and privacy. To combat this, various methods have been adopted for detecting malware on Android devices. This repository provides a collection of datasets aimed at aiding researchers, developers, and cybersecurity professionals in understanding and combating Android malware.
 
-Original Datasets
+### Table of Contents
 
-- **[preprocessed](https://github.com/Malware-Hunter/datasets/tree/main/preprocessed)**:
+- Introduction
+- Datasets
+  - [Originals Datasets](https://github.com/Malware-Hunter/datasets/tree/main/originais)
+  - [Preprocessed Datasets](https://github.com/Malware-Hunter/datasets/tree/main/preprocessed)
+  - [Balanced Datasets](https://github.com/Malware-Hunter/datasets/tree/main/balanced)
+  - [MH-100k](https://github.com/Malware-Hunter/datasets/tree/main/mh-100k)
+- [Code for Handling Datasets](https://github.com/Malware-Hunter/datasets/tree/main/src)  
+- License
+- Acknowledgements
+- Contact
+  
 
-Preprocessed Datasets
+### Introduction
+This repository contains various datasets related to Android malware, designed to support research and analysis. The datasets are categorized into originals, preprocessed (continuous, binaries and complete), and our dataset called MH-100k.
 
-Preprocessing of Each Dataset Follows These Steps:
-1. Removal of Missing Values
-2. Removal of Duplicate Columns and/or Samples
-3. Removal of Irrelevant Features (Columns with Only One Value in All Samples)
-4. Conversion of Data Types
 
-- **[continuous](https://github.com/Malware-Hunter/datasets/tree/main/continuous)**:
 
-Continuous Datasets (When it Fits)
+### License
 
-- **[binaries](https://github.com/Malware-Hunter/datasets/tree/main/binaries)**:
+This project is licensed
 
-Binaries Datasets
+### Acknowledgements
 
-# Codes
-- [src](https://github.com/Malware-Hunter/datasets/tree/main/src): Code for Handling Datasets
+### Contact
