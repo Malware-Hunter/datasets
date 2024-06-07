@@ -1,6 +1,6 @@
 # Datasets
 
-The exponential rise in Android devices has also brought an increased risk of malicious applications that threaten users' security and privacy. To combat this, various methods have been adopted for detecting malware on Android devices. This repository provides a collection of datasets aimed at aiding researchers, developers, and cybersecurity professionals in understanding and combating Android malware.
+The exponential rise in Android devices has also brought an increased risk of malicious applications that threaten users' security and privacy. To combat this, various methods and tools have been adopted for detecting malware on Android devices. This repository provides a collection of datasets aimed at aiding researchers, developers, and cybersecurity professionals in understanding and combating Android malware.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ The exponential rise in Android devices has also brought an increased risk of ma
   
 ### Introduction
 
-This repository contains various datasets related to Android malware, designed to support research and analysis. The datasets are categorized into originals, preprocessed (continuous, binaries and complete), and our dataset called MH-100k.
+This repository contains various datasets related to Android malware, designed to support research and analysis. The datasets are categorized into originals, preprocessed (binaries, continuous and complete), and our dataset called MH-100k.
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This dataset is released under the CC BY 4.0 (Creative Commons Attribution 4.0 International): This license allows others to use your dataset, as long as they provide attribution to you as the creator. It's a relatively permissive option, but it still requires users to attribute authorship of the dataset to you.
 
 ### Acknowledgements
 
@@ -37,3 +37,8 @@ We would like to thank the following sources:
 - **MH-100K** \cite{braganca2023capturing}
 
 ### Contact
+
+For any inquiries or issues, please contact:
+
+
+[def]: https://github.com/Malware-Hunter/datasets/tree/main/balanced
