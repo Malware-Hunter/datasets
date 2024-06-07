@@ -1,8 +1,8 @@
-# Malware Hunters Datasets
+# Datasets
 
 The exponential rise in Android devices has also brought an increased risk of malicious applications that threaten users' security and privacy. To combat this, various methods have been adopted for detecting malware on Android devices. This repository provides a collection of datasets aimed at aiding researchers, developers, and cybersecurity professionals in understanding and combating Android malware.
 
-### Table of Contents
+## Table of Contents
 
 - Introduction
 - Datasets
@@ -15,16 +15,25 @@ The exponential rise in Android devices has also brought an increased risk of ma
 - Acknowledgements
 - Contact
   
-
 ### Introduction
+
 This repository contains various datasets related to Android malware, designed to support research and analysis. The datasets are categorized into originals, preprocessed (continuous, binaries and complete), and our dataset called MH-100k.
-
-
 
 ### License
 
-This project is licensed
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgements
+
+We would like to thank the following sources:
+
+
+- **Drebin-215** \cite{yerima2019droidfusion}
+- **Androcrawl** \cite{sisto2013androcrawl}
+- **KronoDroid** \cite{guerra2021kronodroid}
+- **Android-Permissions** \cite{sarma2012android}
+- **Adroit** \cite{martin2016adroit}
+- **DefenseDroid** \cite{colaco2021defensedroid}
+- **MH-100K** \cite{braganca2023capturing}
 
 ### Contact
