@@ -36,7 +36,7 @@ The main CSV file contains the following columns:
 This dataset is released under the CC BY 4.0 (Creative Commons Attribution 4.0 International): This license allows others to use your dataset, as long as they provide attribution to you as the creator. It's a relatively permissive option, but it still requires users to attribute authorship of the dataset to you.
 
 ## Acknowledgments
-[Optional: Acknowledge any individuals, organizations, or projects that contributed to the creation or maintenance of the MH-100K dataset.]
+
 
 ## Feedback and Contributions
-Feedback, suggestions, and contributions are welcome! If you have any questions or wish to contribute to the dataset, please [open an issue](link to issues) or submit a pull request.
+Feedback, suggestions, and contributions are welcome! If you have any questions or wish to contribute to the dataset, please contact us.
