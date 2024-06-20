@@ -1,10 +1,13 @@
-# Datasets
+# Datasets - Binaries - Balanced Datasets
 
-Datasets Balanced by Number of Samples From Minority Class
+## Overview
+This directory contains the binaries version of the preprocessed malware datasets. These datasets focus on binary features extracted from various malware samples, making them suitable for binary classification and related analysis.
 
-Irrelevant Features (Which Have a Single Value) Were Also Deleted
+## Datasets Balanced by Number of Samples From Minority Class
 
-## Binaries
+The datasets are balanced by the number of samples from the minority class to ensure a fair and unbiased analysis. Irrelevant features (which have a single value) were also deleted.
+
+## Datasets Description
 
 |             Dataset               | Features | Malwares | Benigns | Total |
 |:---------------------------------:|:--------:|:--------:|:-------:|:-----:|
@@ -20,3 +23,29 @@ Irrelevant Features (Which Have a Single Value) Were Also Deleted
 |        KronoDroid Emulator        |   275    |   28745  |  28745  | 57490 |
 
 [^PRS]: Permissions, Receivers and Services
+
+## Usage
+
+### Downloading
+
+- Clone or download this directory to your local machine.
+
+### Accessing the Datasets
+
+- The datasets are provided as CSV files. Use Python with pandas or any compatible tool to load and analyze the data.
+
+### Analysis
+
+- Utilize these binary-feature datasets for binary classification, clustering, and other malware-related research.
+
+### Citation
+
+- If you utilize these datasets in your research, please cite the repository or provide appropriate attribution to the original source.
+
+## License
+
+This dataset is released under the [CC BY 4.0 (Creative Commons Attribution 4.0 International)](https://creativecommons.org/licenses/by/4.0/).
+
+## Feedback and Contributions
+
+Feedback, suggestions, and contributions are encouraged! Contact us or submit a pull request if you wish to contribute.
