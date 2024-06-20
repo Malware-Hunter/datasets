@@ -5,7 +5,8 @@ This directory contains the binaries version of the preprocessed malware dataset
 
 ## Datasets Balanced by Number of Samples From Minority Class
 
-The datasets are balanced by the number of samples from the minority class to ensure a fair and unbiased analysis. Irrelevant features (which have a single value) were also deleted.
+The datasets are balanced by the number of samples from the minority class to ensure a fair and unbiased analysis. Irrelevant features (which have a single value) were also deleted to improve the quality and effectiveness of the data for analysis and machine learning tasks.
+
 
 ## Datasets Description
 

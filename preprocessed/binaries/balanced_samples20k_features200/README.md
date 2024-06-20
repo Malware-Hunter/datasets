@@ -1,8 +1,9 @@
-# Datasets
+# Datasets - Binaries - Balanced Datasets
 
-Balanced Dataset With 10k Samples Per Class and Maximum of 200 Features (Selected by Chi-Qquared)
+## Overview
 
-Irrelevant Features (Which Have a Single Value) Were Also Deleted
+This dataset has been carefully balanced to include 10,000 samples per class (malware and benign) to ensure a fair and unbiased analysis. To optimize the dataset for efficient analysis and machine learning tasks, a maximum of 200 features have been selected using the Chi-Squared feature selection method. Additionally, irrelevant features, which have a single value across all samples, have been deleted to enhance the quality and usability of the data.
+
 
 ## Binaries
 
@@ -20,3 +21,23 @@ Irrelevant Features (Which Have a Single Value) Were Also Deleted
 |        KronoDroid Emulator        |   200    |   10000  |  10000  | 20000 |
 
 [^PRS]: Permissions, Receivers and Services
+
+## Usage
+
+### Downloading
+- Clone or download this directory to your local machine.
+
+### Accessing the Datasets
+- The datasets are provided as CSV files. Use Python with pandas or any compatible tool to load and analyze the data.
+
+### Analysis
+- Utilize these binary-feature datasets for binary classification, clustering, and other malware-related research.
+
+### Citation
+- If you utilize these datasets in your research, please cite the repository or provide appropriate attribution to the original source.
+
+## License
+This dataset is released under the [CC BY 4.0 (Creative Commons Attribution 4.0 International)](https://creativecommons.org/licenses/by/4.0/).
+
+## Feedback and Contributions
+Feedback, suggestions, and contributions are encouraged! Contact us or submit a pull request if you wish to contribute.

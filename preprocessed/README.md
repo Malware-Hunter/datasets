@@ -14,10 +14,12 @@ This repository contains several preprocessed datasets of malware samples ready 
 | DefenseDroid APICalls Closeness     | 10476   | 21997    | API Calls                   |
 | DefenseDroid APICalls Degree        | 10476   | 21997    | API Calls                   |
 | DefenseDroid APICalls Katz          | 10476   | 21997    | API Calls                   |
-| DefenseDroid PRS1                   | 11975   | 2938     | API Calls                   |
+| DefenseDroid[^PRS]                  | 11975   | 2938     | API Calls                   |
 | DREBIN-215                          | 15031   | 215      | Permissions, Intents, API Calls |
 | KronoDroid Real Device              | 78137   | 483      | Permissions, Intents, API Calls |
 | KronoDroid Emulator                 | 63911   | 482      | Permissions, Intents, API Calls |
+
+[^PRS]: Permissions, Receivers and Services
 
 ## Preprocessing Steps
 
