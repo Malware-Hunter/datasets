@@ -23,6 +23,7 @@ The datasets are balanced by the number of samples from the minority class to en
 |      KronoDroid Real Device       |   285    |   36755  |  36755  | 73510 |
 |        KronoDroid Emulator        |   275    |   28745  |  28745  | 57490 |
 
+
 [^PRS]: Permissions, Receivers and Services
 
 ## Usage
