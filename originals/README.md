@@ -17,6 +17,7 @@
 | DefenseDroid PRS1               | 11975   | 2938     | API Calls                       | 68834     | 5975     | 11975   | 083bf4f4a088005e63f5ea3cebe25477a85a14a0d84878b47a48f80ab5139ba9 |
 | DREBIN-215                      | 15031   | 215      | Permissions, Intents, API Calls | 6363      | 9476     | 15031   | 710f2c11b0cad04c36f56dd16398127feb697fd99e8efa7f75890b792fba3ad5 |
 | KronoDroid Real Device          | 78137   | 483      | Permissions, Intents, API Calls | 70140     | 36755    | 78137   | 4ca8c1c706989d9e2946992b29fc2282d391822d3722e67e2e59d2bf1075b0ad |
+| KronoDroid Emulator             | 63991   | 483      | Permissions, Intents, API Calls | 70140     | 28745    | 35246   | 629ec901874629227871d177b825359b47370c9debb686a7ad46e64c27993f9f |
 
 ## Source
 
