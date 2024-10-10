@@ -89,7 +89,7 @@ S. Y. Yerima and S. Sezer, "DroidFusion: A Novel Multilevel Classifier Fusion Ap
 **Link**
 https://figshare.com/articles/dataset/Android_malware_dataset_for_machine_learning_2/5854653
 
-### KronoDroid Real Device
+### KronoDroid Real Device and KronoDroid Emulation
 
 **Context**
 
@@ -101,3 +101,4 @@ Alejandro Guerra-Manzanares, Hayretdin Bahsi, Sven Nõmm, KronoDroid: Time-based
 
 **Link**
  https://github.com/aleguma/kronodroid/tree/main/real_device
+ https://github.com/aleguma/kronodroid/tree/main/emulator
