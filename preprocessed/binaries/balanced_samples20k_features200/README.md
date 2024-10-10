@@ -2,7 +2,7 @@
 
 ## Overview
 
-This dataset has been carefully balanced to include 10,000 samples per class (malware and benign) to ensure a fair and unbiased analysis. To optimize the dataset for efficient analysis and machine learning tasks, a maximum of 200 features have been selected using the Chi-Squared feature selection method. Additionally, irrelevant features, which have a single value across all samples, have been deleted to enhance the quality and usability of the data.
+This dataset has been carefully balanced to include 10,000 samples per class (malware and benign) to ensure a fair and unbiased analysis. To optimize the dataset for efficient analysis and machine learning tasks, a maximum of 200 features have been selected using the **Chi-Squared feature selection** method. Additionally, irrelevant features, which have a single value across all samples, have been deleted to enhance the quality and usability of the data. The **RandomUnderSampler** method was used to ensure a balanced distribution between the classes.
 
 
 ## Binaries
