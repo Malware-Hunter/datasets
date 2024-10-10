@@ -10,7 +10,7 @@ The exponential rise in Android devices has also brought an increased risk of ma
   - [Preprocessed Datasets](https://github.com/Malware-Hunter/datasets/tree/main/preprocessed)
   - [Balanced Datasets](https://github.com/Malware-Hunter/datasets/tree/main/balanced)
   - [MH-100k](https://github.com/Malware-Hunter/datasets/tree/main/mh-100k)
-- [Code for Handling Datasets](https://github.com/Malware-Hunter/datasets/tree/main/src)  
+- [Code for Handling Datasets](https://github.com/Malware-Hunter/datasets/tree/main/tools)  
 - License
 - Acknowledgements
 - Contact
@@ -33,7 +33,7 @@ We would like to thank the following sources:
 - [**DefenseDroid**](https://doi.org/10.37896/sr8.5/027) 
 - [**Debrin215**](https://pubmed.ncbi.nlm.nih.gov/29993965/) 
 - [**KronoDroid** ](<https://doi.org/10.1016/j.cose.2021.102399>)
-- [**MH-100K**]() 
+- [**MH-100K**](https://github.com/Malware-Hunter/datasets/tree/main/mh-100k) 
 
 ### Contact
 

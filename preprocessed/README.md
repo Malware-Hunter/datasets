@@ -4,6 +4,10 @@
 
 This repository contains several preprocessed datasets of malware samples ready for analysis. Each dataset has undergone cleaning, transformation, and preparation for use in malware detection and analysis projects. Three types of preprocessed datasets are available for each dataset: binaries, continuous, and complete.
 
+While we provide these preprocessed datasets for convenience, the original datasets and the tools used for preprocessing are also available in the repository, allowing users to replicate the process themselves if they wish.
+
+The original datasets can be found in the [Originals] (https://github.com/Malware-Hunter/datasets/tree/main/originals) folder, and the [Code for Handling Datasets](https://github.com/Malware-Hunter/datasets/tree/main/tools) used for preprocessing are available in the tools directory. This allows users to replicate the preprocessing themselves if desired, though the preprocessed datasets are provided for convenience.
+
 ## Datasets Description
 
 | Dataset Name                        | Samples | Features | Type Features               |
